@@ -5,9 +5,10 @@
   color: inherit;
   list-style: none;
   text-decoration: none;
+  font-family: 'Red Hat Display', sans-serif;
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1350px;
   margin: 0 auto;
 }

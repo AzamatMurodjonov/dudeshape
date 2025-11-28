@@ -1,7 +1,7 @@
-import "./App.css";
+import './App.css'
 
-import Abdulloh from "./Components/abdulloh/Abdulloh";
-import Azamat from "./Components/azamat/Azamat";
+import Abdulloh from './Components/abdulloh/Abdulloh'
+import Azamat from './Components/azamat/Azamat'
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       <Abdulloh />
       <Azamat />
     </>
-  );
+  )
 }
 
-export default App;
+export default App
